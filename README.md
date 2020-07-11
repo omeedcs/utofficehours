@@ -1,6 +1,6 @@
 # UT Office Hours / Undergraduate Networking & Guidance Application 
 
-An application that streamlines office hours and connectivity between professors and students.
+An application that streamlines office hours and improves connectivity between professors, the university and students.
 
 # CORE FEATURES (In Construction):
 
