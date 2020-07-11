@@ -1,6 +1,6 @@
 # UT Office Hours / Undergraduate Networking & Guidance Application 
 
-An application that streamlines office hours and improves connectivity between professors, the university and students.
+An application that streamlines office hours and improves connectivity between professors, the university and students. Please read this in depth and email me at omeed@cs.utexas.edu if you have any questions! :) 
 
 # CORE FEATURES (In Construction):
 
