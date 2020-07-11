@@ -10,7 +10,6 @@ An application that streamlines office hours and improves connectivity between p
 - Need to figure out how to access university data. 
 - Estimated Time of Arrival (Based on Students Location)
 - Organized Lines with Live Updating
-- (More coming soon.....)
 
 # Getting Started
 
